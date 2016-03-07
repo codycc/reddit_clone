@@ -15,6 +15,38 @@
  @import "bootstrap-sprockets";
 @import "bootstrap";
 
+
+body {
+  background-color:  #8AA9D6;
+}
+.navbar {
+background-color:  #0B2349;
+}
+#navstyle a, title {
+  color:white;
+}
+.navbar #logo a {
+  color:white;
+}
+
+#linkstyle  a {
+  color:white;
+  text-decoration:none;
+}
+#linkstyle  a:hover {
+  color:#0B2349;
+}
+
+#linkstyle2 a {
+  color:white;
+  text-decoration:none;
+}
+#linkstyle2 a:hover {
+  color:#0B2349;
+}
+
+
+
 #logo {
 	font-size: 26px;
 	font-weight: 700;
